@@ -4,7 +4,7 @@ A collection of concise projects and misc files.
 ## [Climate Change Mess Map](https://github.com/mitchb63/Quick_Projects/blob/master/Climate%20Change%20Mess%20Map.pdf)
 A mess map diagram on the problem on climate change created in Adobe Illustrator.  This project was completed as part of Wittenberg University's ANLT 500 course, Wicked Data Design Problems, and based on the work of Robert E. Horn and Robert P. Weber.
 
-## [SuperStore Dashboard Design]9https://github.com/mitchb63/Quick_Projects/blob/master/SuperStore_Dashboard_Design.pdf)
+## [SuperStore Dashboard Design](https://github.com/mitchb63/Quick_Projects/blob/master/SuperStore_Dashboard_Design.pdf)
 This project was created in Tableau as part of Udacity’s Data Visualization Nanodegree program. The objective of this project was to design a dashboard prototype that answers a set of specific business questions for top level executives.
 
 ## Wicked Data Pages (WDPs)
