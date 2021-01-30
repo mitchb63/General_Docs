@@ -4,11 +4,11 @@ A collection of concise projects.
 ## [SuperStore Dashboard Design](https://github.com/mitchb63/Quick_Projects/blob/master/projects/SuperStore_Dashboard_Design.pdf)
 This project was created in Tableau as part of Udacity’s Data Visualization Nanodegree program. The objective of this project was to design a dashboard prototype that answers a set of specific business questions for top level executives.
 
-## Analytic Story Pages (ASPs)
+## Analytic Story Pages
 These projects are a series of one page analysis vignettes created as part of Wittenberg University's ANLT 550 course, Data Visualization.  Topics were self selected with analysis based on publicly available data.  Each paper was required to communicate a compelling story and contain an original visualization based on the analysis conducted.
 * [Turning the Tables](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_Turning_the_Tables.pdf) - A look at the resurgence of the vinyl record industry that began in 2007.
 
-## Wicked Data Pages (WDPs)
+## Wicked Data Pages
 These projects are a series of one page analysis vignettes created as part of Wittenberg University's ANLT 500 course, Wicked Data Design Problems.  Topics were self selected with analysis based on publicly available data.  Each paper was required to communicate a key insight of the Wicked Data Problem and contain an original visualization based on the analysis conducted.
 * [4 Degrees C](https://github.com/mitchb63/Quick_Projects/blob/master/projects/WDP%20-%204%20Degrees%20C.pdf) - A look at climate change
 * [Balancing the Books](https://github.com/mitchb63/Quick_Projects/blob/master/projects/WDP%20-%20Balancing%20the%20Books.pdf) - A look at National budget deficits
