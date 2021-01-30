@@ -1,5 +1,5 @@
 # Quick_Projects
-A collection of concise projects and misc files.
+A collection of concise projects.
 
 ## [SuperStore Dashboard Design](https://github.com/mitchb63/Quick_Projects/blob/master/projects/SuperStore_Dashboard_Design.pdf)
 This project was created in Tableau as part of Udacity’s Data Visualization Nanodegree program. The objective of this project was to design a dashboard prototype that answers a set of specific business questions for top level executives.
