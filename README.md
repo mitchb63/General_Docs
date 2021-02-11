@@ -7,7 +7,7 @@ This project was created in Tableau as part of Udacity’s Data Visualization Na
 ## Analytic Story Pages
 These projects are a series of one page analysis vignettes created as part of Wittenberg University's ANLT 550 course, Data Visualization.  Topics were self selected with analysis based on publicly available data.  Each paper was required to communicate a compelling story and contain an original visualization based on the analysis conducted.
 * [Turning the Tables](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_Turning_the_Tables.pdf) - A look at the resurgence of the vinyl record industry that began in 2007.
-* [One Voice, One Vote?](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_One_Voice_One_Vote.pdf) - A look at individual voter influence on electoral votes.
+* [One Voice, One Vote?](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_One_Voice_One_Vote.pdf) - A look at individual voter influence on the Electoral College.
 
 
 
