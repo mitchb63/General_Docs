@@ -12,6 +12,8 @@ These projects are a series of one page analysis vignettes created as part of Wi
 
 * [O Say Can You See](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_O_Say_Can_You_See.pdf) - A brief history of the national anthem and sporting events.
 
+* [The Art of Money Getting](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_The_Art_of_Money_Getting.pdf) - A study in textual contrast.
+
 ## Wicked Data Pages
 These projects are a series of one page analysis vignettes created as part of Wittenberg University's ANLT 500 course, Wicked Data Design Problems.  Topics were self selected with analysis based on publicly available data.  Each paper was required to communicate a key insight of the Wicked Data Problem and contain an original visualization based on the analysis conducted.
 * [4 Degrees C](https://github.com/mitchb63/Quick_Projects/blob/master/projects/WDP%20-%204%20Degrees%20C.pdf) - A look at climate change
