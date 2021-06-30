@@ -14,8 +14,9 @@ These projects are a series of one page analysis vignettes created as part of Wi
 
 * [The Art of Money Getting](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_The_Art_of_Money_Getting.pdf) - A study in textual contrast.
 
-* [The Day of the Combination](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_The_Day_of_the_Combination.pdf) - A study in textual contrast.
+* [The Day of the Combination](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP_The_Day_of_the_Combination.pdf) - Word frequency and sentiment analysis.
 
+* [A Call to Action for Management](https://github.com/mitchb63/Quick_Projects/blob/master/projects/ASP3_A_Call_to_Action_for_Management.pdf) - Part of speech tagging.
 
 
 ## Wicked Data Pages
